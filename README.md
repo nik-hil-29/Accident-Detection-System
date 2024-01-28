@@ -4,8 +4,7 @@
 
 1. Demonstration
 2. What is Accident Detection System?
-5. Description
-6. Future Work
+3. Future Work
 
 ## 1. Demonstration
 
